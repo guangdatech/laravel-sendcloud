@@ -16,7 +16,7 @@
   "require": {
     "php": ">=7.2",
     "guangda/sendcloud": "^1.0",
-    "illuminate/mail": "^7.0|^8.0"
+    "illuminate/mail": "^7.0|^8.0|^9.0"
   },
   "autoload": {
     "psr-4": {
